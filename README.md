@@ -1,1 +1,8 @@
-# Munoz_Jorge_Jamett_Valentina_1.1_APT122
+# Instacotiza Online (CAPSTONE)
+## Munoz_Jorge_Jamett_Valentina_1.1_APT122
+
+Aplicación web responsiva que permitirá la realización de cotizaciones de ventas para distintas áreas. Enfocada en personas que necesitan realizar cotizaciones de manera rápida, precisa y con un resultado visualmente agradable mientras están en terreno, así como para aquellos que no poseen buen manejo de herramientas de ofimática.
+
+La aplicación permitirá realizar cotizaciones especializadas para distintos rubros, estas se realizarán en una página web responsiva construida en Angular. Permitirá, para usuarios no registrados, guardar plantillas de cotizaciones para volverlas a cargar al sitio usando archivos en formato '.xml'. Para usuarios registrados permitirá guardar las plantillas en la nube para poder tener un acceso más rápido.
+
+> Versión actual: 0.0.1 - en planificación
