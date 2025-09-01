@@ -9,6 +9,3 @@ La aplicación permitirá realizar cotizaciones especializadas para distintos ru
 
 ### Documentos
 [Ficha Técnica](https://docs.google.com/document/d/1U2gdzM37l3EO-vhulRkQTuqniKFU4mcVWVLZqpKFc7M/edit?usp=sharing) - en desarrollo
-
-### Repositorio
-La aplicación está en la carpeta _/InstacotizaOnline_ de este repositorio.
