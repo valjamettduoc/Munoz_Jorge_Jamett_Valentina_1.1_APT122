@@ -1,0 +1,13 @@
+Desinstalar:
+npm uninstall -g @angular/cli
+
+Limpiar caché node:
+npm cache clean --force
+
+Instalar angular 19 LTS:
+npm install -g @angular/cli@19
+
+Comprobar versión:
+ng --versión
+
+(Versión a usar: 19.2.15)
