@@ -11,3 +11,10 @@ Comprobar versión:
 ng --versión
 
 (Versión a usar: 19.2.15)
+
+
+iniciar proyecto:
+
+ng serve
+
+(nunca hacer commits con el server local corriendo)
