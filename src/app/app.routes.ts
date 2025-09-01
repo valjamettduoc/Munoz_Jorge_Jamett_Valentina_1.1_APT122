@@ -7,4 +7,5 @@ export const routes: Routes = [
     {path: 'home', component: HomeComponent},
     {path: 'acerca-de', component: AcercaDeComponent},
     {path: 'cotizador', component: CotizadorComponent},
+    {path: '**', redirectTo: 'home' }
 ];
