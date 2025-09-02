@@ -8,4 +8,4 @@ La aplicación permitirá realizar cotizaciones especializadas para distintos ru
 > Versión actual: 0.0.2 - en planificación y establecimiento de bases
 
 ### Documentos
-[Ficha Técnica](https://docs.google.com/document/d/1U2gdzM37l3EO-vhulRkQTuqniKFU4mcVWVLZqpKFc7M/edit?usp=sharing) - en desarrollo
+[Ficha Técnica](https://docs.google.com/document/d/1U2gdzM37l3EO-vhulRkQTuqniKFU4mcVWVLZqpKFc7M/edit?usp=sharing) - versión 1
